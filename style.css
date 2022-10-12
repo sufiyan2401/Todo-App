@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+
+body{
+    text-align: center;
+    background-color: hsl(198, 93%, 48%);
+}
+.sc{
+    background-color: rgb(12, 245, 16);
+    height: auto;
+    margin-top: 200px;
+    padding: 20px;
+    border-radius : 20px;
+    font-family: 'Dancing Script', cursive;
+    font-size: 25px;
+    font-weight: bolder;
+}
+.btn-1{
+    background-color: rgb(12, 245, 16);
+    height: auto;
+    margin-top: 200px;
+    padding: 20px;
+    border-radius: 20px;
+    font-family: 'Dancing Script', cursive;
+    font-size: 20px;
+}
